@@ -50,9 +50,9 @@ cd <repo-name>
 
 | Team Member     | Contributions |
 |-----------------|-------------------------------|
-| Member 1        | Data preprocessing, EDA, model training |
-| Member 2        | Model selection, tuning, and evaluation |
-| Member 3        | Report writing, presentation, and interpretation of results |
+| Cal Robinson    | Data preprocessing, EDA, model training, Model selection, tuning, and evaluation, Report writing, presentation, and interpretation of results |
+| Marya Zaidi     | Data preprocessing, EDA, model training, Model selection, tuning, and evaluation, Report writing, presentation, and interpretation of results |
+| Daniel Lee      | Data preprocessing, EDA, model training, Model selection, tuning, and evaluation, Report writing, presentation, and interpretation of results |
 
 ## Repository Contents
 ```
