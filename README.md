@@ -58,11 +58,9 @@ cd <repo-name>
 ```
 repo/
 ├── notebooks/
-│   └── analysis_notebook.ipynb
+│   └── analysis notebook as .ipynb
 ├── reports/
-│   └── final_report.pdf
-├── results/
-│   └── model_outputs/
+│   └── final report as pdf
 └── README.md
 ```
 
